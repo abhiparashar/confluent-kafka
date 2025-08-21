@@ -1,0 +1,32 @@
+# Ignore Python virtual environment
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE / editor configs
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
